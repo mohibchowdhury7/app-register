@@ -1,0 +1,19 @@
+.firstSetup{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Quicksand', sans-serif;
+}
+.firstForm{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+}
+.firstForm .input{
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+}
+

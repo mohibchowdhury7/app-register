@@ -1,0 +1,21 @@
+.secondSetup{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Quicksand', sans-serif;
+}
+.secondForm{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+}
+.secondForm .input{
+    padding: 10px;
+    font-size: 18px;
+}
+.secondForm .input{
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+}
+

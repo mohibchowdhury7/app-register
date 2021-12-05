@@ -1,0 +1,20 @@
+
+.thirdSetup{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Quicksand', sans-serif;
+}
+.thirdForm{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+}
+.thirdForm .input{
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+}
+
