@@ -1,7 +1,7 @@
 {
   "name": "register-app",
   "version": "0.1.0",
-  "homepage": "http://dipu1997.github.io/register-appp",
+  "homepage": "http://dipu199.github.io/register-app",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
