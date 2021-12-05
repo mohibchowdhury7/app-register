@@ -51,6 +51,7 @@ const Register = () => {
                         }}
                     >Prev</button>
                     <button 
+                        disabled={step === 3}
                         onClick={() => {
                             if (step === FormTitles.length - 1){
                                 alert("Form has been submited")
